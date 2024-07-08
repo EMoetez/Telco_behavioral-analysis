@@ -1,4 +1,4 @@
-![Image]([https://example.com/images/sample.png](https://telecoms.adaptit.tech/wp-content/uploads/2023/12/Customer-Analytics-2.jpg))
+![Image](https://telecoms.adaptit.tech/wp-content/uploads/2023/12/Customer-Analytics-2.jpg)
 
 
 # Telco_behavioral-analysis
