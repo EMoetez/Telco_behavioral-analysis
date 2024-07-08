@@ -17,6 +17,7 @@ This project involves a comprehensive analysis of telecom customer data to under
 - [Contributing](#contributing)
 - [License](#license)
 
+## Project Structure
 # Telco_behavioral-analysis
 Performed behavioral analysis on telecom customer data using statistical methods and machine learning to identify churn drivers, implement customer segmentation for targeted marketing, and provide a recommendation system.
 
@@ -61,7 +62,16 @@ The dataset used for this project contains various features related to customer 
 - scikit-learn
 - Seaborn
 - Matplotlib
-- 
+
+## Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/telecom-customer-analysis.git
+2. Install the required dependencies
+   ```bash
+   pip install -r requirements.txt
+3. Run the Jupyter notebooks in the /notebooks directory to reproduce the analysis and results.
+
 ## Future Work
 
 
@@ -71,3 +81,6 @@ The dataset used for this project contains various features related to customer 
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
