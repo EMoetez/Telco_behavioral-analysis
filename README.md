@@ -4,6 +4,25 @@
 # Telco_behavioral-analysis
 Performed behavioral analysis on telecom customer data using statistical methods and machine learning to identify churn drivers, implement customer segmentation for targeted marketing, and provide a recommendation system.
 
+# Telecom Customer Behavioral Analysis and Churn Prediction
+
+## Overview
+This project involves a comprehensive analysis of telecom customer data to understand customer behavior, identify key drivers of churn, and implement customer segmentation strategies. The analysis leverages statistical methods and machine learning algorithms to provide actionable insights and recommendations for improving customer retention and optimizing service offerings.
+
+## Table of Contents
+- [Overview](#overview)
+- [Project Structure](#project-structure)
+- [Dataset](#dataset)
+- [Methodology](#methodology)
+- [Results](#results)
+- [Technologies Used](#technologies-used)
+- [Usage](#usage)
+- [Future Work](#future-work)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Project Structure
+
 
 ## Dataset
 The dataset used for this project contains various features related to customer demographics, account information, and usage patterns. It includes both categorical and numerical variables necessary for analysis and modeling. Link to dataset: [Click here](https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets).
@@ -47,6 +66,7 @@ The dataset used for this project contains various features related to customer 
 - Matplotlib
 - 
 ## Future Work
+
 
 - Explore additional machine learning algorithms to improve prediction accuracy.
 - Integrate more advanced customer segmentation techniques.
