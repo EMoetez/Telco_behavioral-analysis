@@ -3,7 +3,7 @@ Performed behavioral analysis on telecom customer data using statistical methods
 
 
 ## Dataset
-The dataset used for this project contains various features related to customer demographics, account information, and usage patterns. It includes both categorical and numerical variables necessary for analysis and modeling.Link to dataset:[Link Text]([URL](https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets)).
+The dataset used for this project contains various features related to customer demographics, account information, and usage patterns. It includes both categorical and numerical variables necessary for analysis and modeling. Link to dataset: [Click here](https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets).
 
 ## Methodology
 1. **Data Preprocessing**:
