@@ -42,4 +42,12 @@ The dataset used for this project contains various features related to customer 
 - scikit-learn
 - Seaborn
 - Matplotlib
+- 
+## Future Work
 
+- Explore additional machine learning algorithms to improve prediction accuracy.
+- Integrate more advanced customer segmentation techniques.
+- Implement a real-time churn prediction system.
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
