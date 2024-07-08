@@ -1,3 +1,6 @@
+![Image]([https://example.com/images/sample.png](https://telecoms.adaptit.tech/wp-content/uploads/2023/12/Customer-Analytics-2.jpg))
+
+
 # Telco_behavioral-analysis
 Performed behavioral analysis on telecom customer data using statistical methods and machine learning to identify churn drivers, implement customer segmentation for targeted marketing, and provide a recommendation system.
 
